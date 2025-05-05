@@ -1,0 +1,130 @@
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/appsettings.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.deps.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.runtimeconfig.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.pdb
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.AssemblyReference.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.AssemblyInfoInputs.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.AssemblyInfo.cs
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.CoreCompileInputs.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/scopedcss/bundle/UserManagementAPI.styles.css
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.CopyComplete
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/refint/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.pdb
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.genruntimeconfig.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Activity 1/UserManagementAPI/obj/Debug/net6.0/ref/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/appsettings.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.deps.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.runtimeconfig.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.pdb
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.AssemblyReference.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.AssemblyInfoInputs.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.AssemblyInfo.cs
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.CoreCompileInputs.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/scopedcss/bundle/UserManagementAPI.styles.css
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.CopyComplete
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/refint/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.pdb
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.genruntimeconfig.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/obj/Debug/net6.0/ref/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Localization.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.ObjectPool.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/03_Debugging With Copilot/04_Activity/UserManagementAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/appsettings.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.deps.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.runtimeconfig.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/UserManagementAPI.pdb
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Localization.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.ObjectPool.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.AssemblyReference.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.AssemblyInfoInputs.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.AssemblyInfo.cs
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.CoreCompileInputs.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/scopedcss/bundle/UserManagementAPI.styles.css
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.csproj.CopyComplete
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/refint/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.pdb
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.genruntimeconfig.cache
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/obj/Debug/net6.0/ref/UserManagementAPI.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Bcl.Memory.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.Bcl.TimeProvider.dll
+/Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll

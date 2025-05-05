@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UserManagementAPI
+build_property.RootNamespace = UserManagementAPI
+build_property.ProjectDir = /Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/jonathanparham/Documents/Coursera/Back-End Development with .NET/Module 5/04_Creating and Managing Middleware With Copilot/04_Activity_03/UserManagementAPI
+build_property._RazorSourceGeneratorDebug = 
